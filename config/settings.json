@@ -88,8 +88,8 @@
             "fix_mqa": true
         },
         "qobuz": {
-            "app_id": "579939560",
-            "app_secret": "fa31fc13e7a28e7d70bb61e91aa9e178",
+            "app_id": "950096963",
+            "app_secret": "979549437fcc4a3faad4867b5cd25dcb",
             "quality_format": "{sample_rate}kHz {bit_depth}bit",
             "auth_with_tokens": true,
             "username_or_UserID": "2709472",
