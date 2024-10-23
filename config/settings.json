@@ -73,8 +73,22 @@
             "app_secret": "979549437fcc4a3faad4867b5cd25dcb",
             "quality_format": "{sample_rate}kHz {bit_depth}bit",
             "auth_with_tokens": true,
-            "username_or_UserID": "3319335",
-            "password_or_Token": "HLNu7uO-DT4lW6gDi-IQvhezD0HghEStjjfafXGsr0YLWX7QQ6XHyFnBMeryUrzjAtK9A2HAjvPTIIfptheLbw"
+            "username_or_UserID": "3279693",
+            "password_or_Token": "acH96ke_nNwK9jVn8Qn6uzMpT_se79edg8RZEUnVMrOT_7sRBJqDyjz44nKskOTEgPY8jq-JWVBzaw2BMZOEpQ"
+        },
+        "tidal": {
+            "tv_atmos_token": "4N3n6Q1x95LL5K7p",
+            "tv_atmos_secret": "oKOXfJW371cX6xaZ0PyhgGNBdNLlBZd4AKKYougMjik=",
+            "mobile_atmos_hires_token": "km8T1xS355y7dd3H",
+            "mobile_hires_token": "6BDSRdpK9hqEBTgU",
+            "enable_mobile": true,
+            "prefer_ac4": false,
+            "fix_mqa": true
+        },
+        "musixmatch": {
+            "token_limit": 10,
+            "lyrics_format": "standard",
+            "custom_time_decimals": false
         },
         "deezer": {
             "client_id": "447462",
@@ -85,20 +99,6 @@
             "email": "",
             "password": "",
             "arl": "85345484c0491e56e4e60577a68d6ccfd1e7d6d4efda47dc952a83990386afa4638bbcf1e613c33702e4b41b3837b1ae398f19611bc719823f3f91d691632f098f65533f55a63f162e6e7a952cefe2c1d02d824b15830651194bae0a6d6a40c6"
-        },
-        "musixmatch": {
-            "token_limit": 10,
-            "lyrics_format": "standard",
-            "custom_time_decimals": false
-        },
-        "tidal": {
-            "tv_atmos_token": "4N3n6Q1x95LL5K7p",
-            "tv_atmos_secret": "oKOXfJW371cX6xaZ0PyhgGNBdNLlBZd4AKKYougMjik=",
-            "mobile_atmos_hires_token": "km8T1xS355y7dd3H",
-            "mobile_hires_token": "6BDSRdpK9hqEBTgU",
-            "enable_mobile": true,
-            "prefer_ac4": false,
-            "fix_mqa": true
         }
     }
 }
