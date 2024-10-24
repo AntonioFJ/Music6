@@ -71,12 +71,12 @@
         "deezer": {
             "client_id": "447462",
             "client_secret": "a83bf7f38ad2f137e444727cfc3775cf",
-            "bf_secret": "",
-            "track_url_key": "",
+            "bf_secret": "g4el58wc0zvf9na1",
+            "track_url_key": "jo6aey6haid2Teih",
             "prefer_mhm1": false,
             "email": "",
             "password": "",
-            "arl": ""
+            "arl": "9d97bf290525cb3a8d6e6509a533624f17984703a829aa7e9310ab4c8d2af92c57a4c7dc4e1cdb0800cd7f3feedcead5effb329e716a212b53b18c9b923b93196ab19572c7b24f51e3e9720131f2d0080f1321174bb2c26f61e7a3cf04759666"
         },
         "tidal": {
             "tv_atmos_token": "4N3n6Q1x95LL5K7p",
