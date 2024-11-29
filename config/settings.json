@@ -1,7 +1,7 @@
 {
     "global": {
         "general": {
-            "download_path": "/content/drive/MyDrive/Hi-Res 5/Aquí estarán sus descargas",
+            "download_path": "/content/drive/MyDrive/Hi-Res 5",
             "download_quality": "hifi",
             "search_limit": 10
         },
@@ -76,7 +76,7 @@
             "prefer_mhm1": false,
             "email": "",
             "password": "",
-            "arl": "f40cce15293e4f77d83caa53f2b217c253ca243a6255bb06449df2f9803e840fd01c6f36730a98d4df035553e8eecdcb72cb7a4fe7d0cd407b32402f8dc9ccb9044e73c7f8969e9d556344332472ed5d1548715c86b32d5917434bcbfb155898"
+            "arl": "d8c4342bb142a2624661e963040a5299115cc275860737aec45d17944d25c02722960b1a313344d811f243c5b5b9e068455c10f5ff928eef3d4ad9995c66dfb9f2a64cb7895e7aca1fd426a39f14f703e6ab11c699f87ad08ea031a95e354f60"
         },
         "tidal": {
             "tv_atmos_token": "4N3n6Q1x95LL5K7p",
